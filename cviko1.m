@@ -1,4 +1,5 @@
 clc, clear
+PENISISKO NAJVACSI MA ANDREJ
 
 
 %% funkcie
