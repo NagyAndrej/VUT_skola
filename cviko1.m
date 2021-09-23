@@ -127,6 +127,6 @@ step(feedback(reg_pid*funkcia_motoru,1));
 
 
 
-
+ahoj
 
 
